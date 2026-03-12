@@ -1,0 +1,1 @@
+# DDD like GO CRUD (TODO\Task service) pet project practice
